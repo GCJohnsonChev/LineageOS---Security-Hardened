@@ -1,0 +1,9 @@
+ota-property-files=metadata:507309131:341  
+ota-required-cache=0
+ota-type=BLOCK
+post-build=samsung/kltexx/klte:6.0.1/MMB29M/G900FXXU1CRH1:user/release-keys
+post-build-incremental=58bc5635ca
+post-sdk-level=30
+post-security-patch-level=2022-06-05
+post-timestamp=1656817520
+pre-device=klte,klteacg,kltecan,kltetmo,klteub,klteusc,kltevzw,kltexx
